@@ -1,0 +1,40 @@
+Most of the coupon are given from the Coffee House and fifty percent of them are accepted only
+
+Restuarants with an average expense per person of less than 20$ every month gives out coupons less than Coffee Houses but from these restaurants around 90 percent of them are accepted
+
+Carry out& take away gives around 2500 coupons and there also 90 percent of them are accepted
+
+From Bar most coupons are not likely to beaccepted by the customers
+
+For Restaurants with an average expense per person of more than 20$ most coupons are not accepted
+
+Customer with destination as no urgent place are likely to accept the most coupons
+
+At Sunny weather customers are likely to accept more coupons in the afternoon , and for snowy weather at Morning
+
+For rainy weather coupons are accepted mostly in Morning
+
+And for Snowy weather customers tend not to accept coupons at afternoon
+
+And for Rainy weather customers tend not to accept coupons in the morning
+
+Coupons with one day expiration time are accepted by the customers mostly
+
+Men accepts the coupon more than women
+
+Coupons given to people having maritalstatus as single are accepted more
+People that have no children are likely to accept the coupon more than people having children
+
+People having less education are tend to accept the coupon more
+
+Students and Unemployed people are getting more coupons and are accepting coupons in large count
+People in Production ,Building & Ground Cleaning & Maintenance ,Farming and Forestry are not getting that much coupons
+
+People having income range between 20k to 40k are accepting more coupons 
+
+People visiting coffee house 1-3 times in a month and visiting carryaway 1-3 times a month are accepting more coupons
+
+People visting restuarants with average expense range of 20-50 dollar per persons are likely to accept more coupons
+
+The chances of people accepting the coupon is more where driving distance is less than five minutes
+
