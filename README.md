@@ -1,4 +1,4 @@
-# Project-1---ML-model-for---In-vehicle-coupon-recommendation-data
+# Project---ML-model-for---In-vehicle-coupon-recommendation-data
 Au
 Source of the data : UCI Machine Learning repository
 
